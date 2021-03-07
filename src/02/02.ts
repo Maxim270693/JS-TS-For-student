@@ -13,7 +13,7 @@ type AddressPropsType = {
     city: CityPropsType
 }
 
-type StudentPropsType = {
+export type StudentPropsType = {
     name: string
     age: number
     isActive: boolean
